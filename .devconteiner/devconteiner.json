@@ -1,0 +1,14 @@
+{
+    "name": "Meu ambiente web padrão",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ritwickdey.liveserver",
+                "dbaeumer.vscode-eslint",
+                "dracula-theme.theme-dracula",
+                "github.copilot",
+                "ms-azuretools.vscode-containers"
+            ]
+        }
+    }
+}
